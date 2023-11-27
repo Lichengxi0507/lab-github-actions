@@ -4,6 +4,8 @@
 
 This is for NYU DevOps lab on using GitHub Actions with Redis for Continuous Integration
 
+[![codecov](https://codecov.io/gh/Lichengxi0507/lab-github-actions/graph/badge.svg?token=3T3G4201RR)](https://codecov.io/gh/Lichengxi0507/lab-github-actions)
+
 ## Introduction
 
 This lab contains a `workflow.yml` file in the `.github/workflows/` folder that shows you how to run your tests and start a Redis service be attached while running them. It also uses Code Coverage to determine how complete your testing is.
